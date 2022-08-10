@@ -25,10 +25,9 @@ This is my fork of [CardView](https://github.com/AndreiMisiukevich/CardView) pro
 - https://github.com/AndreiMisiukevich/CardView/ Original CardView solution
 - https://github.com/AndreiMisiukevich/ CardView's author, Great C# Developer 
 
-## License
-The MIT License (MIT) see [License file](LICENSE)
-
+## .
 AS IS. No support. RnD only.
 
--- [m][e] 2022
+## ..
+- [m][e] 2022
 
