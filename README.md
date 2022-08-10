@@ -1,7 +1,8 @@
 # PanCardView 1
 
-This is my fork of [CardView](https://github.com/AndreiMisiukevich/CardView) project
-(Pan)CardView is very cool project that realized CoverFlow, CoverCube and other amazing visual effects! :)
+This is my fork of [CardView](https://github.com/AndreiMisiukevich/CardView) project.
+
+(Pan)CardView is very cool project that realized CoverFlow, CoverCube and other amazing visual effects.
 
 ## Screenshots
 
