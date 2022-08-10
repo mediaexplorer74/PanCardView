@@ -8,8 +8,8 @@ This is my fork of [CardView](https://github.com/AndreiMisiukevich/CardView) pro
 
 ## My 2 cents
 
-- CardView explored / solution refactored (Tizen / GTK / MacOs samples deleted)
-- UWP example fixed a little
+- Original CardView solution explored / solution refactored (Tizen/GTK/MacOs "targets" deleted)
+- UWP "target" fixed a little =)
 
 ## Status
 - .NET Standard 2.0 now used (1.4 in my plans) 
