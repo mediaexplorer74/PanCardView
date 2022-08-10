@@ -14,9 +14,9 @@ This is my fork of [CardView](https://github.com/AndreiMisiukevich/CardView) pro
 
 - Original CardView solution explored&refactored (Tizen/GTK/MacOs "targets" deleted)
 - UWP "target" fixed a little (XF 2.5 init procedure improved) 
-- .NET Standard 1.4 realized (this is for my old sweet Lumia 950);
-- 4 main "super effects": Cards, Carousel, CoverFlow, and CubeView recovered;
-- Min. supported version of Win10Mobile: 14393;
+- .NET Standard 1.4 realized (this is for my old sweet Lumia 950)
+- 4 main "super effects": Cards, Carousel, CoverFlow, and CubeView recovered
+- Min. supported version of Win10Mobile: 14393
 - Alpha version 1 ready =) 
  
 
